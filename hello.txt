@@ -4,3 +4,4 @@ new line
 master second commit
 hot-fix branch first commit
 github commit
+github 2
