@@ -3,3 +3,4 @@ hello git
 new line
 master second commit
 hot-fix branch first commit
+github commit
